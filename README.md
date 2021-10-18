@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 가즈아!
+- 가즈아!😄
 
 <!--
 **nebulayoon/nebulayoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
