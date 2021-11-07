@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 가즈아!
+- 머신러닝, 백엔드, 보안
 
 <!--
 **nebulayoon/nebulayoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
