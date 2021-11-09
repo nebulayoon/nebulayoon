@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 - 가즈아!
-- 머신러닝, 백엔드, 보안
+docker run ubuntu:20.04 \
+docker run --restart always --name ubuntu_20.04 -dt ubuntu:20.04 \
+docker run --rm -it ubuntu:20.04 /bin/bash \
+docker exec -it ubuntu_20.04 /bin/bash \
+
 
 <!--
 **nebulayoon/nebulayoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
