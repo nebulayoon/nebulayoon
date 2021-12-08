@@ -9,8 +9,6 @@ mysql version 5.x 의 charset 변경
 
 머신러닝, 백엔드
 
-서비스 -->비지니스\
-
 <!--
 **nebulayoon/nebulayoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
