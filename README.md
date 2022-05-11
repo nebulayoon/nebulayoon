@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-docker pull ubuntu:20.04
-docker ps -a
+docker pull ubuntu:20.04 \
+docker ps -a \
 docker run ubuntu:20.04 \
 docker run --restart always --name ubuntu_20.04 -dt ubuntu:20.04 \
 docker run --rm -it ubuntu:20.04 /bin/bash \
